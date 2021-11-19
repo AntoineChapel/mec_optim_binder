@@ -7,5 +7,5 @@ wheel >= 0.37.0
 boto3 >= 1.20.9
 packaging >= 21.3
 networkx >= 2.6.3
-osmnx >= 1.1.2
+osmnx = 1.0.1
 tabulate >= 0.8.9
